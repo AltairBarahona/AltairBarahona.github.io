@@ -3,7 +3,23 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9894e232b4785bae65ad4d5cc5d14d23",
+  "assets/AssetManifest.json": "e71f65ddff21b934724fa5db91c39a40",
+"assets/assets/agua.jpg": "3c0713e3b460270011784be485caf80d",
+"assets/assets/aire.jpg": "2a1de322d95a30b69e354a1b801c72ec",
+"assets/assets/earth.jpg": "49f7b1f771e58ca48ec100d2778106ae",
+"assets/assets/elementos.jpg": "c9222f4497b59261d2ffaaf2794a23bd",
+"assets/assets/fuego.jpg": "0299505fda88fe5b36ad92503d8095cb",
+"assets/assets/pregunta_1.jpg": "c0f26dce8f2b2a79343dd8fe99e8a6a8",
+"assets/assets/pregunta_2.jpg": "78bd5214861eee692c9964f9832387ab",
+"assets/assets/pregunta_3.jpg": "be0d3e97986480cb090a45e7c99832bd",
+"assets/assets/pregunta_4.jpg": "7fc17d47c1b2fd11c3e537e4d4dffdd2",
+"assets/assets/pregunta_5.jpg": "e2b726511553bcd6207e2c5edaba062d",
+"assets/assets/pregunta_6.jpg": "e7a7a5a5b1b36493b834e1c852678226",
+"assets/assets/pregunta_7.jpg": "d3445800027ce45cfd83d27aed275923",
+"assets/assets/pregunta_8.jpg": "662fb6ea86e957f3d4a9a960bd940f3b",
+"assets/assets/pregunta_8_v2.jpg": "5213ec143058fe57dafe2b17c3bb2a3c",
+"assets/assets/pregunta_8_v3.jpg": "4b83ce4271d31e5dd9db7c69d18e152a",
+"assets/assets/pregunta_9.jpg": "8d96962fdbfb2f643e48e707ba95fed1",
 "assets/assets/taleega.png": "069cc58d77278501d3e9b7f78d2c4dd9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -20,9 +36,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "436c7ba662831e9c7d8aa642578e0e00",
-"/": "436c7ba662831e9c7d8aa642578e0e00",
-"main.dart.js": "73681f058c871c737937391c570f2a5c",
+"index.html": "59958ecbcae35bb12b37f36081059780",
+"/": "59958ecbcae35bb12b37f36081059780",
+"main.dart.js": "838413d6edf0f3192e91d0e28e8c1065",
 "manifest.json": "f239a04a92613e98c8abd8a195386afe",
 "version.json": "ea44e844839f179e8445da4d981b6f23"
 };
